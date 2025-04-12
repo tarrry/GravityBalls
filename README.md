@@ -21,5 +21,8 @@ A simple simulation where a ball can be dragged, thrown, and bounces off walls w
    git clone https://github.com/yourusername/gravity-ball-simulator.git
    cd gravity-ball-simulator
 2. Install the dependencies:
-    ```bash
+   ```bash
    pip install pygame
+3. Usage:
+   ```bash
+   python main.py
